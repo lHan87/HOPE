@@ -6,4 +6,24 @@ File instruction:
 Open-source for non-profit research. 
 For comercial usage, please contact: @copyright Logrus Global <serge.gladkoff [at] logrusglobal.com> https://logrusglobal.com 
 
+------------------------
+Reference:
 
+HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
+S Gladkoff, L Han - arXiv preprint arXiv:2112.13833, 2021
+
+@article{DBLP:journals/corr/abs-2112-13833,
+  author    = {Serge Gladkoff and
+               Lifeng Han},
+  title     = {{HOPE:} {A} Task-Oriented and Human-Centric Evaluation Framework Using
+               Professional Post-Editing Towards More Effective {MT} Evaluation},
+  journal   = {CoRR},
+  volume    = {abs/2112.13833},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.13833},
+  eprinttype = {arXiv},
+  eprint    = {2112.13833},
+  timestamp = {Tue, 04 Jan 2022 15:59:27 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-13833.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
