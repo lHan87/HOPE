@@ -7,9 +7,14 @@ Open-source for non-profit research.
 For comercial usage, please contact: @copyright Logrus Global <serge.gladkoff [at] logrusglobal.com> https://logrusglobal.com 
 
 **Demo Link to HOPE metric:
+
 https://drive.google.com/drive/folders/1sajkcrnDgTOFiYVkFjYqh9EDYUhneYqA?usp=sharing
 
 **Presentation video:
+
+https://drive.google.com/drive/folders/1lOSiMe3cFmzSt6vtovJGU6MZ8t2bs_0Y?usp=sharing 
+
+**Official LREC2022 paper:
 
 
 ------------------------
